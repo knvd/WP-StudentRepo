@@ -1,5 +1,5 @@
 
-const images = ["res/img/Image1.jpg", "res/img/Image2.jpg", "res/img/Image3.jpg", "res/img/Image4.jpg"];
+const images = ["res/img/image1.jpg", "res/img/Image2.jpg", "res/img/Image3.jpg", "res/img/Image4.jpg"];
 
 let currentImageIndex = 0;
 
