@@ -7,10 +7,23 @@ This guide will equip you with the tools and knowledge to build your own unique 
 
 **Instructor: Dr Naveed Jeelani Khan**
 
-## Tasks:
+## Progress:
 
-* A co
+* Create basic structure of website ✔
+* Create header with title and Image ✔
+* Create menu bar with links ✔
+* Add about us and contact pages and link them ✔
+* Create body with 3 side by side sections ✔
+* Create a footer ✔
+* Create a got to top functional button ✔
+* Add external stylesheet ✔
+* Add date, greetign and login/register ✔
+* Add external javascript ✔
+* Add theme color changing bar ✔
+* Add favicon ==**ongoing**
+* Add Slideshow ==**ongoing**
   
-**Guidelines:**
+**Special Guidelines:**
+1. Read Github Guideline Manual
 
 
