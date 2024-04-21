@@ -1,9 +1,5 @@
-# WP-StudentRepo
-
-# Web Programming
-**For: MCA II SEM South Campus, University of Kashmir**
-
-**Instructor: Dr Naveed Jeelani Khan**
+# Course Title: Web Programming
+**For: MCA II SEM South Campus, University of Kashmir, J&K India**
 
 ## **🎓 Course Information**
 
