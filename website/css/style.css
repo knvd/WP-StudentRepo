@@ -6,7 +6,7 @@ padding: 0;
 #scrollTopBtn {
   display: none; /* Hide the button initially */
   position: fixed; /* Position the button */
-  bottom: 20px; /* Place the button at the bottom of the page */
+  bottom: 30px; /* Place the button at the bottom of the page */
   right: 30px; /* Position the button 30px from the right */
   z-index: 99; /* Make sure the button is on top of other elements */
   font-size: 18px; /* Increase the font size */
@@ -21,11 +21,6 @@ padding: 0;
 
 #scrollTopBtn:hover {
   background-color: #333; /* Add a hover background color */
-}
-
-#top{
-margin-top: 0;
-padding: 0;
 }
 
 #ImgContainer{
